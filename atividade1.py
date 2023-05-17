@@ -21,4 +21,4 @@ while True:
         print("Dicionário de backup:")
         print(dicionario_backup)
         
-print("Encerrando...")
+print("Encerrando o programa. ")
